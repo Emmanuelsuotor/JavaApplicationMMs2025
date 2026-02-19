@@ -10,7 +10,7 @@ public class PrimitiveDataType{
 		int nigeriaPopulation = 2000000000;
 		System.out.printf("The population of Nigeria is %d%n",nigeriaPopulation);
 		
-		long worldsPopulation = 9000000000000;
+		long worldsPopulation = 9000000000000L;
 		System.out.printf("The worlds Population is %d",worldsPopulation);
 		
 		//float-point primitive data type

@@ -5,7 +5,7 @@ public class TypeCasting{
 		System.out.printf("The account balance is %f",balance);
 		
 		
-		int number = 89.56;
+		double number = 89.56;
 		int newValue = (int) number;
 		
 		System.out.printf("The number is %d%n",newValue);
